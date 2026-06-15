@@ -92,7 +92,7 @@ Day 23: Mastered → Review in 1 month+
 
 👉 Enter your choice (1-8): 1
 
-![image](screenshots/1.png)
+![image](Screenshots/1.png)
 
 ## Review Session Example
 
@@ -151,13 +151,13 @@ Press Enter to reveal answer...
 
 ## Statistics Dashboard
 
-![image](screenshots/add.png)
+![image](Screenshots/add.png)
 
 ====================================================================== 
 
 📊 REVIEW STATISTICS
 
-![image](screenshots/question.png)
+![image](Screenshots/question.png)
 
 ======================================================================
 
